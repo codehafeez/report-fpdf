@@ -14,7 +14,7 @@ http://localhost/report-fpdf
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/qr-code/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/report-fpdf/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
